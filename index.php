@@ -64,7 +64,7 @@
         chat-title="OOPS TUTOR"
         agent-id="63f2eb72-85cf-481b-b72d-73e3a5830971"
         language-code="en"
-        chat-icon="img/tutor2.png"
+        chat-icon="img/tutor2.PNG"
     ></df-messenger>
 </body>
 </html>
