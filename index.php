@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta name="viewport" content="width-device-width, initial-scale=1">
-    <title>OLMS-ChatBot</title>
+    <title>OOPS TUTOR-ChatBot</title>
     <!-- dialogflow style bootsrap -->
     <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
     <style>
